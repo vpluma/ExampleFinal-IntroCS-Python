@@ -1,4 +1,5 @@
 # Example Semester 1 - Final Python Project
+# Added GitHub Link
 def openingBanner():
 	print("+================+")
 	print("+ Opening Banner +")
