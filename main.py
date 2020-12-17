@@ -1,5 +1,5 @@
 # Example Semester 1 - Final Python Project
-# Added GitHub Link
+# Added GitHub Access To REPL.IT
 def openingBanner():
 	print("+================+")
 	print("+ Opening Banner +")
